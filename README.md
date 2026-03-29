@@ -2,7 +2,7 @@
 
 A simple Rock Paper Scissors game built with Python and Tkinter (GUI).
 
-## 🚀 How to Run
+## How to Run
 
 1. Make sure Python is installed
 2. Clone this repo:
@@ -10,12 +10,12 @@ A simple Rock Paper Scissors game built with Python and Tkinter (GUI).
 3. Run the game:
    python rps_1.py
 
-## 🛠️ Built With
+## Built With
 
 - Python
 - Tkinter (GUI library)
 
-## 📌 Features
+## Features
 
 - Play against the computer
 - Simple and clean GUI
